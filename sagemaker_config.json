@@ -1,0 +1,5 @@
+{
+    "bucket_name": "your-s3-bucket-name",
+    "prefix": "ml-model",
+    "instance_type": "ml.m5.large"
+}
